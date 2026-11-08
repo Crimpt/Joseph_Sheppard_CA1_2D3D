@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - Projectile
+  - Ground
+  - Enemy Container
+  - Enemy
+  - Projectile_Player
+  - shotSpeedUP
+  - trippleShot
+  - Debris
+  - increaseHealth
+  - Enemy_Projectile
+  - shot_container
+  - bounceShot
+  - Gravity_Low
+  - Player_Bounding_Box
+  - Ship
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Planet
+  - Water
+  - UI
+  - Space Background
+  - Player
+  - Enemy
+  - Projectile_Player
+  - Walls
+  - Enemy_Container
+  - Enemy_Projectile
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: YEs
+    uniqueID: 1690372497
+    locked: 0
+  - name: New Layer 2
+    uniqueID: 1178973605
+    locked: 0
+  m_RenderingLayers:
+  - Default
+  - Background
+  - ForeGround
+  m_MigratedRenderPipelines: []
