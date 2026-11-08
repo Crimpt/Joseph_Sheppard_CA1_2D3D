@@ -67,5 +67,5 @@
         "*.sln": "*.csproj",
         "*.slnx": "*.csproj"
     },
-    "dotnet.defaultSolution": "CA1-Use-this.slnx"
+    "dotnet.defaultSolution": "Joseph_Sheppard_CA1_2D3D.slnx"
 }
